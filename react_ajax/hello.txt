@@ -1,0 +1,12 @@
+How to get up and running
+
+1) Navigate to MAMP/htdocs via terminal
+2)  create-react-app react_ajax
+    cd react_ajax
+    npm start
+3) yarn add jquery --> installs jquery neede for ajax
+4) at top of App.js include var $ = require('jquery');
+5) move hello.php to public and build folder --> not sure which is necessary
+6) npm run build
+6) FTP to dreamhost username/websitename directory
+7) transfer contents of build (including hello.php)to server 

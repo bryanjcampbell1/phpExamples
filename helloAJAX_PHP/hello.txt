@@ -1,0 +1,7 @@
+Steps to make this html/php work
+
+1) Download MAMP
+2) Run MySQL server and APACHE
+3) place helloAJAX_PHP in htdocs
+4) open WebStart Page --> should show list of files in htdocs
+5) doubleclick helloAJAX_PHP 
